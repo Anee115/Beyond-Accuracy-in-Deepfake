@@ -1,1 +1,13 @@
+## Model Weights and Code
 
+This folder contains the pre-trained model weights and implementation code.
+
+### Contents of this folder
+
+- **Trained Models (`.h5` files):**
+  - Model parameters trained on the Deepfake Challenge (DFC) dataset.
+  - Model parameters trained on the Celeb-DF (v2) dataset.
+  - Model parameters trained on the FaceForensics++ (FF++) dataset.
+
+- **Source Code:**
+  - `EfficientNetV2`: The implementation of the EfficientNetV2 architecture.
