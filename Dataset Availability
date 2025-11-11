@@ -1,0 +1,13 @@
+Dataset Availability
+The models in this repository were trained and evaluated on three publicly available deepfake detection benchmarks. The datasets can be sourced from their official links or the respective publications listed below.
+
+Deepfake Challenge (DFC)
+Reference: L. Guarnera et al., "The Face Deepfake Detection Challenge," Journal of Imaging, vol. 8, no. 10, p. 263, 2022. 
+
+Celeb-DF (v2)
+Reference: Y. Li, X. Yang, P. Sun, H. Qi, and S. Lyu, "Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics," in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+Note: The correct citation for the dataset itself is provided above. The paper by Ramadhani et al. (2024) is a study that uses the dataset.
+
+FaceForensics++ (FF++)
+Reference: A. Rössler, D. Cozzolino, L. Verdoliva, C. Riess, J. Thies, and M. Nießner, "FaceForensics++: Learning to Detect Manipulated Facial Images," in IEEE/CVF International Conference on Computer Vision (ICCV), 2019.
+Note: The correct citation for the dataset itself is provided above. The paper by Siddiqui et al. (2025) is a study that uses the dataset.
